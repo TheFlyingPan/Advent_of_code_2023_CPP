@@ -1,5 +1,5 @@
 # Advent_of_code_2023_CPP
-Advent of code 2023 made with C++
+Advent of code 2023 in C++
 
 Day 1 : \
 part 1 OK \
